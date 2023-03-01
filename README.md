@@ -35,5 +35,6 @@ You have a total of 10 attempts to guess the number.
 
 # Contributors
 Jesus macias
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
