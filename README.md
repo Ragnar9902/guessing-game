@@ -3,22 +3,23 @@ This is a simple command-line guessing game written in C programming language.
 
 Requirements
 C compiler (GCC recommended)
+```
 Make
+```
 # Installation
 Clone the repository:
-´´´
+```
 git clone https://github.com/[username]/guessing_game_in_c.git
 cd guessing_game_in_c
-´´´
+```
 Compile the code using Make:
-´´´
+```
 make
-´´´
+```
 Run the executable file:
-
-´´´
+```
 ./guessing_game
-´´´
+```
 # How to Play
 The program will generate a random number between 1 and 100.
 
